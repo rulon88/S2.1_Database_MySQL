@@ -1,0 +1,13 @@
+# Ignore system and IDE files
+*.bak
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+out/
+bin/
+AppData/
+OneDrive/
+NTUSER.DAT*
